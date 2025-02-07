@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Duy-Nam Bui"
 title_separator          : "-"
-name                     : &name "Duy-Nam Bui"
+name                     : &title
 description              : &description "personal description"
 url                      : https://duynamrcv.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Duy-Nam Bui"
-  pronouns         : "he/his"
+  pronouns         : "🇻🇳 he/his"
   bio              : "M.Sc. in Electronics Engineering - Robotics Engineer"
   location         : "Hanoi, Vietnam"
   employer         : "Vietnam National University"
@@ -79,7 +79,7 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  articles:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
