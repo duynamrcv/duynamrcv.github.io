@@ -16,7 +16,7 @@ An updated version of my CV can be found [here](/files/cv.pdf).
 My research directions evolve around the efficient coordination of multi-robot systems by considering robustness, scalability, and safety. More specifically, my interests include:
 - Multi-robot systems
 - Learning and optimal control
-- Motion planning.
+- Motion planning
 
 # News and Highlights
 - **Jan 2025:** Our paper: ["Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints"](/publications/2025-01-nmopso) has been published at [Neural Computing and Applications](https://link.springer.com/journal/521)

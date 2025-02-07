@@ -48,6 +48,16 @@ layout: default
           {% if page.doi %}
             DOI: <a href="{{ page.doi }}">{{ page.doi }}</a></br>
           {% endif %}
+          
+          {% if page.paperurl %}
+          <a href="{{ page.paperurl }}"> <i class="fa fa-file-alt"></i> Paper</a> &emsp;
+          {% endif %}
+          {% if page.codeurl %}
+          <a href="{{ page.codeurl }}"><i class="fa fa-github"></i> Code</a>
+          {% endif %}
+          {% if page.videourl %}
+          <a href="{{ page.videourl }}"><i class="fa fa-youtube-play"></i> Video</a>
+          {% endif %}
         </p>
         </header>
       {% endunless %}
@@ -55,18 +65,8 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.collection == 'publications' %}
-          <p style="font-size: smaller">Citation: {{ page.authors }}. &quot;{{page.title}},&quot;, in <i>{{page.venue}}</i>. {{page.date | date: "%Y"}}.</p>
+          <p style="font-size: smaller">Citation: {{ page.authors }}. &quot;{{page.title}},&quot; in <i>{{page.venue}}</i>. {{page.date | date: "%Y"}}.</p>
         {% endif %}
-        {% if page.paperurl %}
-          <a style="font-size: smaller" href="{{ page.paperurl }}"> <i class="fa fa-file-alt"></i> Paper</a> &emsp;
-        {% endif %}
-        {% if page.codeurl %}
-          <a style="font-size: smaller" href="{{ page.codeurl }}"><i class="fa fa-github"></i> Code</a>
-        {% endif %}
-        {% if page.videourl %}
-          <a style="font-size: smaller" href="{{ page.videourl }}"><i class="fa fa-youtube-play"></i> Video</a>
-        {% endif %}
-
       </section>
 
       <footer class="page__meta">
