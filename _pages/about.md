@@ -26,6 +26,7 @@ My research directions evolve around the efficient coordination of multi-robot s
 - **Apr 2024:** Our paper: ["Radial basis function neural networks for formation control of unmanned aerial vehicles"](/publications/2024-04-rbfbsmc) has been published at [Robotica](https://www.cambridge.org/core/journals/robotica).
 - **Jan 2024:** Two our papers: ["Ant colony optimization for cooperative inspection path planning using multiple unmanned aerial vehicles"](/publications/2024-01-sii-1), and ["Self-Reconfigurable V-shape Formation of Multiple UAVs in Narrow Space Environments"](/publications/2024-01-sii-2) has been presented at 2024 IEEE/SICE International Symposium on System Integration (SII), Ha Long, Vietnam.
 - **Dec 2023:** I am honored to receive the VINIF Scholarship.
+- **Oct 2023:** I start my M.Sc. in Electronics Engineering at Vietnam National University, Hanoi, under the guidance of [Dr. Hung Pham Duy](https://scholar.google.com.vn/citations?user=3el0x_oAAAAJ) and [Dr. Manh Duong Phung](https://scholar.google.com.vn/citations?user=JE-a1MkAAAAJ).
 - **Sep 2023:** I start working as an Automotive Embedded Engineer at [VinAI Research](https://www.vinai.io/).
 - **Apr 2023:** Our paper: ["Lyapunov-Based Nonlinear Model Predictive Control for Attitude Trajectory Tracking of Unmanned Aerial Vehicles"](/publications/2023-04-lnmpc) has been published at [International Journal of Aeronautical and Space Sciences](https://link.springer.com/journal/42405).
 - **Dec 2022:** I am honored to receive the VINIF Scholarship.
