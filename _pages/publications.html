@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -15,15 +15,17 @@ author_profile: true
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
+    {% assign index = 1 %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2>{{ category[1].title }}</h2>
         {% assign title_shown = true %}
       {% endunless %}
-      [{{ category[1].title | slice: 0, 1 }}{{ forloop.index }}] {{ post.authors }}. <a href="{{post.permalink}}">&quot;{{post.title}},&quot;</a> in <i>{{post.venue}}</i>. {{post.date | date: "%Y"}}.
+      [{{ category[1].title | slice: 0, 1 }}{{ index }}] {{ post.authors }}. <a href="{{post.permalink}}">&quot;{{post.title}},&quot;</a> in <i>{{post.venue}}</i>. {{post.date | date: "%Y"}}.</br>
+      {% assign index = index | plus: 1 %}
     {% endfor %}
   {% endfor %}
 {% endif %}

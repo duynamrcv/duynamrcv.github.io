@@ -46,17 +46,18 @@ layout: default
             Published in <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }} </br>
           {% endif %}
           {% if page.doi %}
-            DOI: <a href="{{ page.doi }}">{{ page.doi }}</a></br>
+            DOI: {{ page.doi }}</br>
+
+          <a href="https://doi.org/{{ page.doi }}"> <i class="fa fa-file-alt"></i> Paper</a> &emsp;
           {% endif %}
-          
-          {% if page.paperurl %}
-          <a href="{{ page.paperurl }}"> <i class="fa fa-file-alt"></i> Paper</a> &emsp;
+          {% if page.arxivurl %}
+          <a href="{{ page.arxivurl }}"> <i class="ai ai-arxiv"></i> Arxiv</a> &emsp;
           {% endif %}
           {% if page.codeurl %}
-          <a href="{{ page.codeurl }}"><i class="fa fa-github"></i> Code</a>
+          <a href="{{ page.codeurl }}"><i class="fa fa-github"></i> Code</a> &emsp;
           {% endif %}
           {% if page.videourl %}
-          <a href="{{ page.videourl }}"><i class="fa fa-youtube-play"></i> Video</a>
+          <a href="{{ page.videourl }}"><i class="fa fa-youtube-play"></i> Video</a> &emsp;
           {% endif %}
         </p>
         </header>
@@ -76,7 +77,7 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
+      <!-- {% if page.share %}{% include social-share.html %}{% endif %} -->
 
       {% include post_pagination.html %}
     </div>
