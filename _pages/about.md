@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng. degree in *Robotics Engineering*, and M.Sc. degree in *Electronics Engineering* in 2022, and 2024, respectively, both from [Vietnam National University](https://www.vnu.edu.vn/home/), Hanoi, Vietnam. He is currently an Automotive Embedded Engineer at [VinAI Research](https://www.vinai.io/), responsible for the control and planning modules for autonomous vehicles.
+I received the B.Eng. degree in *Robotics Engineering*, and M.Sc. degree in *Electronics Engineering* in 2022, and 2024, respectively, both from [Vietnam National University](https://www.vnu.edu.vn/home/), Hanoi, Vietnam. I am currently an Automotive Embedded Engineer at [VinAI Research](https://www.vinai.io/), responsible for the control and planning modules for autonomous vehicles.
 
 An updated version of my CV can be found [here](/files/cv.pdf).
 
