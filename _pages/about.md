@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng. degree in *Robotics Engineering*, and M.Sc. degree in *Electronics Engineering* in 2022, and 2024, respectively, both from [Vietnam National University](https://www.vnu.edu.vn/home/), Hanoi, Vietnam. I am currently an Automotive Embedded Engineer at [VinAI Research](https://www.vinai.io/), responsible for the control and planning modules for autonomous vehicles.
+I received the B.Eng. degree in *Robotics Engineering*, and M.Sc. degree in *Electronics Engineering* in 2022, and 2024, respectively, both from [University of Engineering and Technology](https://uet.vnu.edu.vn/), [Vietnam National University](https://www.vnu.edu.vn/home/), Hanoi, Vietnam. I am currently an Automotive Embedded Engineer at [VinAI Research](https://www.vinai.io/), responsible for the control and planning modules for autonomous vehicles.
 
 An updated version of my CV can be found [here](/files/cv.pdf).
 
@@ -30,6 +30,6 @@ My research directions evolve around the efficient coordination of multi-robot s
 - **Apr 2023:** Our paper: ["Lyapunov-Based Nonlinear Model Predictive Control for Attitude Trajectory Tracking of Unmanned Aerial Vehicles"](/publications/2023-04-lnmpc) has been published at [International Journal of Aeronautical and Space Sciences](https://link.springer.com/journal/42405).
 - **Dec 2022:** I am honored to receive the Master Scholarship of Vingroup Innovation Foundation (VINIF).
 - **Nov 2022:** Our paper: ["Deployment of UAVs for optimal multihop ad-hoc networks using particle swarm optimization and behavior-based control"](/publications/2022-11-iccais) has been presented at 2022 11th International Conference on Control, Automation and Information Sciences (ICCAIS), Hanoi, Vietnam.
-- **Oct 2022:** I start my M.Sc. in Electronics Engineering at Vietnam National University, Hanoi, under the guidance of [Dr. Hung Pham Duy](https://scholar.google.com.vn/citations?user=3el0x_oAAAAJ) and [Dr. Manh Duong Phung](https://scholar.google.com.vn/citations?user=JE-a1MkAAAAJ).
+- **Oct 2022:** I start my M.Sc. in Electronics Engineering at [University of Engineering and Technology](https://uet.vnu.edu.vn/), [Vietnam National University](https://www.vnu.edu.vn/home/), Hanoi, under the guidance of [Dr. Hung Pham Duy](https://scholar.google.com.vn/citations?user=3el0x_oAAAAJ) and [Dr. Manh Duong Phung](https://scholar.google.com.vn/citations?user=JE-a1MkAAAAJ).
 - **Sep 2022:** Our paper: ["Adaptive fuzzy Lyapunov-based model predictive control for parallel platform driving simulators"](/publications/2022-09-aflmpc) has been published at [Transactions of the Institute of Measurement and Control](https://journals.sagepub.com/home/TIM).
 - **Jun 2022:** I sucessfully defened my Undergraduate Thesis with the title "Lyapunov-based Nonlinear Model Predictive Control for Trajectory tracking and Navigation of a Four wheeled omni-directional Mobile Robot".
