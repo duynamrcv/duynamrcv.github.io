@@ -19,6 +19,7 @@ My research directions evolve around the efficient coordination of multi-robot s
 - Motion planning
 
 # News and Highlights
+- **Feb 2025:** I was awarded the title of Outstanding Employee of the Year 2024 at [VinAI Research](https://www.vinai.io/).
 - **Jan 2025:** Our paper: ["Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints"](/publications/2025-01-nmopso) has been published at [Neural Computing and Applications](https://link.springer.com/journal/521).
 - **Nov 2024:** I sucessfully defened my Master's Thesis with the title "Distributed Control strategies for Changing Multiple UAV Formation".
 - **Oct 2024:** Our product "Fully Automatic Parking Assist" at [VinAI Research](https://www.vinai.io/) has won the Smart Parking Innovation of the Year award at [Autotech Breakthrough Award 2024](https://autotechbreakthrough.com/2024-winners/).
