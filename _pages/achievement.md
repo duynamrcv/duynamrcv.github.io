@@ -5,7 +5,7 @@ permalink: /achievement/
 author_profile: true
 ---
 
-## 2024 - VinAI - Excellent Employee 2024
+## 2025 - VinAI - Excellent Employee 2024
 <img src="/files/2024_vinai.JPG" alt="2024 VinAI" width="75%">
 
 ## 2024 - ICCRI - Best Paper Award
