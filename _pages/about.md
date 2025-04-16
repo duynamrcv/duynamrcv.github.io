@@ -19,6 +19,8 @@ My research directions evolve around the efficient coordination of multi-robot s
 - Motion planning
 
 # News and Highlights
+<!-- - **May 2025:** Our paper: ["Event-based Reconfiguration Control for Time-varying Formation of Robot Swarms in Narrow Spaces"](/publications/2025-05-erc) has been published at [Intelligent Service Robotics](https://link.springer.com/journal/11370). -->
+- **April 2025:** Our paper: ["Multi-goal Rapidly Exploring Random Tree with Safety and Dynamic Constraints for UAV Cooperative Path Planning"](/publications/2025-04-multirrt) has been published at [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
 - **Feb 2025:** I was awarded the title of [Excellent Employee](/achievement/) of the Year 2024 at [VinAI Research](https://www.vinai.io/).
 - **Jan 2025:** Our paper: ["Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints"](/publications/2025-01-nmopso) has been published at [Neural Computing and Applications](https://link.springer.com/journal/521).
 - **Nov 2024:** I sucessfully defened my Master's Thesis with the title "Distributed Control strategies for Changing Multiple UAV Formation".
