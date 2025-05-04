@@ -5,9 +5,9 @@ category: articles
 permalink: /publications/2025-04-multirrt
 doi: 10.1109/TVT.2025.3560658
 authors: 'Thu Hang Khuat, Duy-Nam Bui, Hoa TT. Nguyen, Mien L. Trinh, Minh T. Nguyen & Manh Duong Phung'
-date: 2025-04-12
+date: 2025-04-14
 venue: 'IEEE Transactions on Vehicular Technology'
-# arxivurl: 'https://arxiv.org/pdf/2501.03261'
+arxivurl: 'https://arxiv.org/pdf/2501.03261'
 codeurl: 'https://github.com/duynamrcv/multi-target_RRT'
 ---
 
