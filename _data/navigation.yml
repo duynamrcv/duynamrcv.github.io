@@ -17,8 +17,8 @@ main:
   - title: "Academic Service"
     url: /service/
         
-  - title: "Achievement"
-    url: /achievement/
+  # - title: "Achievement"
+  #   url: /achievement/
     
   - title: "CV"
     url: "/files/cv.pdf"
