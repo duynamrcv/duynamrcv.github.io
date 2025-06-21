@@ -13,4 +13,5 @@ author_profile: true
     - Neural Computing and Applications
     - Intelligent Service Robotics
 - Elsevier:
+    - Swarm and Evolutionary Computation
     - ISA Transactions
