@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng. degree in *Robotics Engineering*, and M.Sc. degree in *Electronics Engineering* in 2022, and 2024, respectively, both from [University of Engineering and Technology](https://uet.vnu.edu.vn/), [Vietnam National University](https://www.vnu.edu.vn/home/), Hanoi, Vietnam. I am currently a Motion Planning Engineer at [VinFast](https://vinfast.vn/), responsible for the control and planning modules for autonomous vehicles.
+I received the B.Eng. degree in *Robotics Engineering*, and M.Sc. degree in *Electronics Engineering* in 2022, and 2024, respectively, both from [University of Engineering and Technology](https://uet.vnu.edu.vn/), [Vietnam National University](https://www.vnu.edu.vn/home/), Hanoi, Vietnam. I am currently an Autonomous Embedded Engineer at [VinAI](https://vinai.io/), responsible for the control and planning modules for autonomous vehicles.
 
 An updated version of my CV can be found [here](/files/cv.pdf).
 
@@ -20,7 +20,6 @@ My research directions evolve around the efficient coordination of multi-robot s
 
 # News and Highlights
 - **May 2025:** Our paper: ["Event-based Reconfiguration Control for Time-varying Formation of Robot Swarms in Narrow Spaces"](/publications/2025-05-erc) has been published at [Intelligent Service Robotics](https://link.springer.com/journal/11370).
-- **May 2025:** I started working as a Motion Planning Engineer at [VinFast](https://vinfast.vn/), Vietnam.
 - **April 2025:** Our paper: ["Multi-goal Rapidly Exploring Random Tree with Safety and Dynamic Constraints for UAV Cooperative Path Planning"](/publications/2025-04-multirrt) has been published at [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
 - **Feb 2025:** I was awarded the title of [Excellent Employee](/achievement/) of the Year 2024 at [VinAI Research](https://www.vinai.io/).
 - **Jan 2025:** Our paper: ["Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints"](/publications/2025-01-nmopso) has been published at [Neural Computing and Applications](https://link.springer.com/journal/521).
