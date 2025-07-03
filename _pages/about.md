@@ -7,18 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng. degree in *Robotics Engineering*, and M.Sc. degree in *Electronics Engineering* in 2022, and 2024, respectively, both from [University of Engineering and Technology](https://uet.vnu.edu.vn/), [Vietnam National University](https://www.vnu.edu.vn/home/), Hanoi, Vietnam. I am currently an Automotive Embedded Engineer at [VinAI](https://vinai.io/), responsible for the control and planning modules for autonomous vehicles.
+I am currently a Ph.D. candidate in *Automatic Control* at Division of Automatic Control, Department of Electrical Engineering, [Linköping University](https://liu.se/en/), Linköping, Sweden, which focus on Control of Multi-agent Networks. I received the B.Eng. degree in *Robotics Engineering*, and M.Sc. degree in *Electronics Engineering* in 2022, and 2024, respectively, both from [University of Engineering and Technology](https://uet.vnu.edu.vn/), [Vietnam National University](https://www.vnu.edu.vn/home/), Hanoi, Vietnam. My research interests include networked multi-agent systems, and learning and optimal control.
 
 An updated version of my CV can be found [here](/files/cv.pdf).
 
-# Research interests
+<!-- # Contact
+**Duy-Nam Bui**\\
+Division of Automatic Control (RT)\\
+Department of Electrical Engineering (ISY)\\
+Linköping University\\ -->
+<!-- Campus Valla, Building B, entrance 27, room 3A:455
+581 83 Linköping, Sweden -->
+<!-- *Emails:* -->
+<!-- khac-hoang.ngo [at] liu [dot] se (working)\\ -->
+<!-- duynam.robotics [at] gmail [dot] com (personal) -->
 
-My research directions evolve around the efficient coordination of multi-robot systems by considering robustness, scalability, and safety. More specifically, my interests include:
-- Multi-robot systems
-- Learning and optimal control
-- Motion planning
+<!-- # Research interests -->
+
+<!-- My research directions evolve around the efficient coordination of multi-agent systems by considering robustness, scalability, and safety. More specifically, my interests include: -->
+<!-- - Motion planning -->
 
 # News and Highlights
+- **Sep 2025:** I started my Ph.D. in Automatic Control at [Linköping University](https://liu.se/en/), Linköping, Sweden, under the guidance of [Prof. Claudio Altifini](https://scholar.google.com/citations?user=t6F0uycAAAAJ) and [Assoc. Prof. Martin Enqvist](https://scholar.google.com/citations?user=0ojFbaUAAAAJ&hl=en) under the project *"Mathematical Models of Opinion Propagation Dynamic on Social Networks"*.
 - **May 2025:** Our paper: ["Event-based Reconfiguration Control for Time-varying Formation of Robot Swarms in Narrow Spaces"](/publications/2025-05-erc) has been published at [Intelligent Service Robotics](https://link.springer.com/journal/11370).
 - **April 2025:** Our paper: ["Multi-goal Rapidly Exploring Random Tree with Safety and Dynamic Constraints for UAV Cooperative Path Planning"](/publications/2025-04-multirrt) has been published at [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
 - **Feb 2025:** I was awarded the title of [Excellent Employee](/achievement/) of the Year 2024 at [VinAI Research](https://www.vinai.io/).
