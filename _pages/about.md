@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in *Automatic Control* at Division of Automatic Control, Department of Electrical Engineering, [Linköping University](https://liu.se/en/), Linköping, Sweden, which focus on Control of Multi-agent Networks. I received the B.Eng. degree in *Robotics Engineering*, and M.Sc. degree in *Electronics Engineering* in 2022, and 2024, respectively, both from [University of Engineering and Technology](https://uet.vnu.edu.vn/), [Vietnam National University](https://www.vnu.edu.vn/home/), Hanoi, Vietnam. My research interests include networked multi-agent systems, and learning and optimal control.
+I am currently a Ph.D. candidate in *Automatic Control* at Division of Automatic Control, Department of Electrical Engineering, [Linköping University](https://liu.se/en/), Linköping, Sweden, where I focus on Control of Multi-agent Networks. I received the B.Eng. degree in *Robotics Engineering* in 2022, and the M.Sc. degree in *Electronics Engineering* in 2024, both from [University of Engineering and Technology](https://uet.vnu.edu.vn/), Vietnam National University, Hanoi, Vietnam. My research interests include networked multi-agent systems, learning-based control, and optimal control.
 
 An updated version of my CV can be found [here](/files/cv.pdf).
 
