@@ -16,10 +16,10 @@ An updated version of my CV can be found [here](/files/cv.pdf).
 Division of Automatic Control (RT)\\
 Department of Electrical Engineering (ISY)\\
 Linköping University\\ -->
-<!-- Campus Valla, Building B, entrance 27, room 3A:455
+<!-- Campus Valla, Building B
 581 83 Linköping, Sweden -->
 <!-- *Emails:* -->
-<!-- khac-hoang.ngo [at] liu [dot] se (working)\\ -->
+<!-- duynam.bui [at] liu [dot] se (working)\\ -->
 <!-- duynam.robotics [at] gmail [dot] com (personal) -->
 
 <!-- # Research interests -->
