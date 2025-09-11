@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Ph.D. student in *Automatic Control* at the Division of Automatic Control, Department of Electrical Engineering, [Linköping University](https://liu.se/en/), Linköping, Sweden, where I focus on the Control of Multi-agent Networks. I received my B.Eng. degree in *Robotics Engineering* in 2022 and my M.Sc. degree in *Electronics Engineering* in 2024, both from the [University of Engineering and Technology](https://uet.vnu.edu.vn/), Vietnam National University, Hanoi, Vietnam.
 
-My research interests include networked multi-agent systems, learning-based control, and optimal control.
+My research interests include multi-agent systems, signed networks, and control.
 
 An updated version of my CV can be found [here](/files/cv.pdf).
 
@@ -22,17 +22,12 @@ Campus Valla, Building B\\
 Entrance 27, Room 2A:519\\
 581 83 Linköping, Sweden
 
-*Emails:*
-- duy.nam.bui [at] liu [dot] se (working)
-- duynam.robotics [at] gmail [dot] com (personal)
-
-<!-- # Research interests -->
-
-<!-- My research directions evolve around the efficient coordination of multi-agent systems by considering robustness, scalability, and safety. More specifically, my interests include: -->
-<!-- - Motion planning -->
+***Emails:*** \\
+&nbsp; - *Working:* duy.nam.bui [at] liu [dot] se \\
+&nbsp; - *Personal:* duynam.robotics [at] gmail [dot] com
 
 # News and Highlights
-- **Aug 2025:** I started my Ph.D. in Automatic Control at the [Linköping University](https://liu.se/en/), Linköping, Sweden, under the supervision of [Prof. Claudio Altafini](https://scholar.google.com/citations?user=t6F0uycAAAAJ) and [Assoc. Prof. Martin Enqvist](https://scholar.google.com/citations?user=0ojFbaUAAAAJ&hl=en).
+- **Aug 2025:** I started my Ph.D. in Automatic Control at the [Linköping University](https://liu.se/en/), Linköping, Sweden, under the supervision of [Prof. Claudio Altafini](https://scholar.google.com/citations?user=t6F0uycAAAAJ).
 - **May 2025:** Our paper, ["Event-based Reconfiguration Control for Time-varying Formation of Robot Swarms in Narrow Spaces"](/publications/2025-05-erc), was published in [Intelligent Service Robotics](https://link.springer.com/journal/11370).
 - **April 2025:** Our paper, ["Multi-goal Rapidly Exploring Random Tree with Safety and Dynamic Constraints for UAV Cooperative Path Planning"](/publications/2025-04-multirrt), was published in [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
 - **Feb 2025:** I was awarded the title of Excellent Employee of the Year 2024 at [VinAI Research](https://www.vinai.io/).
