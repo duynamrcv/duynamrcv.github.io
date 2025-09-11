@@ -18,8 +18,8 @@ An updated version of my CV can be found [here](/files/cv.pdf).
 Division of Automatic Control (RT)\\
 Department of Electrical Engineering (ISY)\\
 Linköping University\\
-Campus Valla, Building B
-Entrance 27, Room 2A:519
+Campus Valla, Building B\\
+Entrance 27, Room 2A:519\\
 581 83 Linköping, Sweden
 
 *Emails:*
