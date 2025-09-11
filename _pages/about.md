@@ -23,7 +23,7 @@ Entrance 27, Room 2A:519\\
 581 83 Linköping, Sweden
 
 *Emails:*
-- duy.nam.bui [at] liu [dot] se (working)\\
+- duy.nam.bui [at] liu [dot] se (working)
 - duynam.robotics [at] gmail [dot] com (personal)
 
 <!-- # Research interests -->
