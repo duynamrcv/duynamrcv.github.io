@@ -19,7 +19,7 @@ Division of Automatic Control (RT)\\
 Department of Electrical Engineering (ISY)\\
 Linköping University\\
 Campus Valla, Building B\\
-Entrance 27, Room 2A:519\\
+Entrance 27, Room 2A:509\\
 581 83 Linköping, Sweden
 
 ***Emails:*** \\
