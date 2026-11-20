@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+<!-- # About me -->
 I am a Ph.D. student in *Automatic Control* at the Division of Automatic Control (RT), Department of Electrical Engineering (ISY), [Linköping University](https://liu.se/en/), Linköping, Sweden, supervised by [Prof. Claudio Altafini](https://isy.gitlab-pages.liu.se/staff/claal20/). My research focuses on characterizing the structural and topological properties of deep neural networks, including recurrent neural networks and transformers, through the lenses of control theory and complex networks.
 
 <!-- My research interests are in the area of complex networks, multi-agent systems, and control. -->
@@ -27,7 +27,7 @@ For a full list of publications, see <a href="{{site.author.googlescholar}}">my 
       <i>Intelligent Service Robotics</i>, 2025<br>
       <a href="https://doi.org/10.1007/s11370-025-00607-z"> <i class="fa fa-file-alt"></i> Paper</a> &emsp;
       <a href="https://arxiv.org/abs/2505.16087"> <i class="ai ai-arxiv"></i> Arxiv</a> &emsp;
-      <a href="https://github.com/duynamrcv/erc"><i class="fa fa-github"></i> Code</a> &emsp;
+      <a href="https://github.com/duynamrcv/erc"><i class="fa-brands fa-github"></i> Code</a> &emsp;
     </td>
 </table>
 
@@ -41,7 +41,7 @@ For a full list of publications, see <a href="{{site.author.googlescholar}}">my 
       <i>IEEE Transactions on Vehicular Technology</i>, 2025<br>
       <a href="https://doi.org/10.1109/TVT.2025.3560658"> <i class="fa fa-file-alt"></i> Paper</a> &emsp;
       <a href="https://arxiv.org/abs/2504.11823"> <i class="ai ai-arxiv"></i> Arxiv</a> &emsp;
-      <a href="https://github.com/duynamrcv/multi-target_RRT"><i class="fa fa-github"></i> Code</a> &emsp;
+      <a href="https://github.com/duynamrcv/multi-target_RRT"><i class="fa-brands fa-github"></i> Code</a> &emsp;
     </td>
 </table>
 
@@ -55,6 +55,6 @@ For a full list of publications, see <a href="{{site.author.googlescholar}}">my 
       <i>Neural Computing and Applications</i>, 2025<br>
       <a href="https://doi.org/10.1007/s00521-024-10945-1"> <i class="fa fa-file-alt"></i> Paper</a> &emsp;
       <a href="https://arxiv.org/abs/2501.03261"> <i class="ai ai-arxiv"></i> Arxiv</a> &emsp;
-      <a href="https://github.com/ngandng/NMOPSO"><i class="fa fa-github"></i> Code</a> &emsp;
+      <a href="https://github.com/ngandng/NMOPSO"><i class="fa-brands fa-github"></i> Code</a> &emsp;
     </td>
 </table>
